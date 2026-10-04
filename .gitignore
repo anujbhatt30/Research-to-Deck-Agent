@@ -1,0 +1,23 @@
+# Generated research/outline/deck output (recreated by running run.py)
+output/*.json
+output/*.pptx
+output/*.pdf
+# ...except the tracked example, kept for portfolio/demo purposes
+!output/example_deck.pptx
+!output/example_outline.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/

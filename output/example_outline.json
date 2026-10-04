@@ -1,0 +1,62 @@
+{
+  "topic": "Generative AI impact on business",
+  "slides": [
+    {
+      "title": "What Is Generative AI?",
+      "type": "bullets",
+      "bullets": [
+        "Creates text, images, videos, code, and more using AI models.",
+        "Differs from traditional models that analyze existing data.",
+        "Increases employee productivity and speed."
+      ],
+      "chart": null,
+      "sources": ["https://www.coursera.org/articles/generative-ai-impact-on-business", "https://www.charterglobal.com/generative-ai-impact-on-businesses/"]
+    },
+    {
+      "title": "Adoption and Market Scale",
+      "type": "bullets",
+      "bullets": [
+        "Reached 53% global population adoption within three years.",
+        "Private investment grew more than 200% in 2025.",
+        "Enterprise spending accelerated significantly."
+      ],
+      "chart": null,
+      "sources": ["https://axis-intelligence.com/generative-ai-statistics/", "https://www.amplifai.com/blog/generative-ai-statistics"]
+    },
+    {
+      "title": "Operational Gains vs Revenue",
+      "type": "chart",
+      "bullets": ["Organizational impact metrics for productivity and revenue."],
+      "chart": {"chart_type": "bar", "labels": ["Productivity/Efficiency Gains", "Revenue Gains"], "values": [66, 20], "unit": "% of organizations", "title": "Operational Gains vs Revenue"},
+      "sources": ["https://www.amplifai.com/blog/generative-ai-statistics"]
+    },
+    {
+      "title": "High Impact Industries",
+      "type": "bullets",
+      "bullets": ["Banking, high tech, and life sciences see the biggest impact.", "Reshaping industries from automating tasks to product design."],
+      "chart": null,
+      "sources": ["https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier", "https://www.charterglobal.com/generative-ai-impact-on-businesses/"]
+    },
+    {
+      "title": "Global Investment Context",
+      "type": "chart",
+      "bullets": ["Compares GenAI spending to broader AI investment figures."],
+      "chart": {"chart_type": "bar", "labels": ["GenAI Enterprise Spending 2025", "Global AI Investment 2025"], "values": [37, 581.7], "unit": "Billion USD", "title": "Global Investment Context"},
+      "sources": ["https://axis-intelligence.com/generative-ai-statistics/"]
+    },
+    {
+      "title": "Embedding AI Workflows",
+      "type": "bullets",
+      "bullets": ["Delivers value when embedded into core workflows, not standalone tools.", "Treat as infrastructure for sustained benefits and scaling, not a one-off project."],
+      "chart": null,
+      "sources": ["https://appinventiv.com/blog/generative-ai-for-business/"]
+    },
+    {
+      "title": "AI Agents in the Workplace",
+      "type": "bullets",
+      "bullets": ["Agents interpret objectives, gather data, and draft reports directly.", "Reduces decision friction and improves consistency across teams."],
+      "chart": null,
+      "sources": ["https://www.bcg.com/capabilities/artificial-intelligence/generative-ai", "https://appinventiv.com/blog/generative-ai-for-business/"]
+    }
+  ]
+}
