@@ -313,6 +313,16 @@ The final result is a standard `.pptx` file that can be opened and edited in Mic
 
 ---
 
+### Output/Result Images :-
+
+## 1. ![Slide 1](Images/Slide1.png)
+
+## 2. ![Slide 2](Images/Slide2.png)
+
+## 3. ![Slide 3](Images/Slide3.png)
+
+---
+
 # 🛠️ Tech Stack
 
 | Technology      | Purpose                 |
