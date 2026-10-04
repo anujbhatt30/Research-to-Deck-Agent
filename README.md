@@ -364,7 +364,7 @@ Each module can also be executed independently for testing and debugging.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/research-to-deck-agent.git
+git clone https://github.com/anujbhatt30/research-to-deck-agent.git
 
 cd research-to-deck-agent
 ```
